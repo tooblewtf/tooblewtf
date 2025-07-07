@@ -1,5 +1,5 @@
 <p align = "center">
-<a href="https://github.com/tooblewtf"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=1000&center=true&vCenter=true&multiline=true&width=435&height=100&lines=Hi!+I+am+tooblewtf.;Nice+to+meet+you!;Feel+free+to+check+out+my+projects!" alt="Typing SVG" /></a>
+<a href="https://github.com/tooblewtf"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=1000&center=true&vCenter=true&multiline=true&width=435&height=100&lines=Hi!+I+am+tooble." alt="Typing SVG" /></a>
 </p>
 
 
