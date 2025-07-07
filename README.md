@@ -25,16 +25,6 @@
   <a href="https://github.com/tooblewtf"><img src = "https://github-profile-trophy.vercel.app/?username=tooblewtf&column=4&theme=onestar", alt = "Github Trophy"></a>
     </p>
 
-<h2 align="center">Check out my projects!</h2>
-<p align="center">
-  <a href="https://github.com/tooblewtf/exitLag-auto-signup"><img src = "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=tooblewtf&repo=exitLag-auto-signup&theme=merko&show_owner=true", alt = "ExitLag auto signup" /></a>
-  <a href = "https://github.com/tooblewtf/chatgpt-sponsor-blocker"><img src = "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=tooblewtf&repo=chatgpt-sponsor-blocker&theme=merko&show_owner=true", alt = "ChatGPT Sponsor Blocker" /></a>
-  <a href="https://github.com/tooblewtf/honor-of-kings-json"><img src = "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=tooblewtf&repo=honor-of-kings-json&theme=merko&show_owner=true", alt = "Honor of Kings API" /></a>
-  <a href="https://github.com/tooblewtf/twice-api"><img src = "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=tooblewtf&repo=twice-api&theme=merko&show_owner=true", alt = "TWICE API" /></a>
-  <a href="https://github.com/tooblewtf/discord-lootboxes-opener"><img src = "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=tooblewtf&repo=discord-lootboxes-opener&theme=merko&show_owner=true", alt = "Discord Lootboxes opener" /></a>
-  <a href="https://github.com/tooblewtf/paper-version-links"><img src = "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=tooblewtf&repo=paper-version-links&theme=merko&show_owner=true", alt = "PaperMC version links" /></a>
-  <a href="https://github.com/tooblewtf/roblox-auto-signup"><img src = "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=tooblewtf&repo=roblox-auto-signup&theme=merko&show_owner=true", alt = "Roblox auto signup" /></a>
-</p>
 
 
 
@@ -44,20 +34,20 @@
   🔭 I'm currently working on nothing. Im just a regular student.
 </h4>
 <h4 align="center">
-  ❤️ Main languages: Python, HTML, Javascript
+  ❤️ Main languages: CSS, HTML, Javascript
 </h4>
 <h4 align="center">
-  📫 How to reach me: <a href = "https://tooblewtf.is-a.dev/discord">tooblewtf (Discord)</a> | <a href = "https://twitch.tv/tooblewtf">tooblewtf (Twitch)</a> | <a href = "https://youtube.com/@tooblewtf">tooblewtf (YouTube)</a>
+  📫 How to reach me: <a href = "https://my.tooble.wtf">my.tooble.wtf</a>
 </h4>
 <h4 align="center">
   😄 Pronouns: <a href = "https://pronouns.org/he-him">He/Him</a>
 </h4>
 <h4 align="center">
-  ⚡ Fun fact: I hate light mode.
+  ⚡ Fun fact: I hate light mode but i use it because idk.
 </h4>
 
 
 <h2 align="center">Socials</h2>
 <p align="center">
-  <a href="https://discordapp.com/users/635765555277725696"><img src = "https://lanyard.cnrad.dev/api/635765555277725696", alt = "Discord"></a>
+  <a href="https://discordapp.com/users/1270763934915366912"><img src = "https://lanyard.cnrad.dev/api/1270763934915366912", alt = "Discord"></a>
 </p>
