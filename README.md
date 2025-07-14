@@ -10,16 +10,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/tooblewtf"><img src = "https://streak-stats.demolab.com?user=tooblewtf&theme=dark&date_format=M%20j%5B%2C%20Y%5D", alt = "Github streak" /></a>
-</p>
-
-<p align="center">
   <a href="https://github.com/tooblewtf"><img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=tooblewtf&theme=dark&layout=normal&size_weight=0.5&count_weight=0.5&langs_count=9&card_width=500", alt = "Top Languages" /></a>
 </p>
-  
-<p align="center">
-  <a href="https://wakatime.com/@tooblewtf"><img src = "https://github-readme-stats.vercel.app/api/wakatime?username=tooblewtf&custom_title=tooblewtf's%20Wakatime%20Stats&layout=compact&theme=dark", alt = "Wakatime stats"></a>
-</p>
+
     
 <p align = "center">
   <a href="https://github.com/tooblewtf"><img src = "https://github-profile-trophy.vercel.app/?username=tooblewtf&column=4&theme=onestar", alt = "Github Trophy"></a>
