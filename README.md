@@ -24,13 +24,13 @@
 <h2 align="center">Introduction</h2>
 
 <h4 align="center">
-  🔭 I'm currently working on nothing. Im just a regular student.
+  🔭 I'm currently working on Blox16 Im just a regular student.
 </h4>
 <h4 align="center">
   ❤️ Main languages: CSS, HTML, Javascript
 </h4>
 <h4 align="center">
-  📫 How to reach me: <a href = "https://my.tooble.wtf">my.tooble.wtf</a>
+  📫 How to reach me: <a href = "https://discord.com/users/1270763934915366912">Discord</a>
 </h4>
 <h4 align="center">
   😄 Pronouns: <a href = "https://pronouns.org/he-him">He/Him</a>
@@ -41,6 +41,5 @@
 
 
 <h2 align="center">Socials</h2>
-<p align="center">
-  <a href="https://discordapp.com/users/1270763934915366912"><img src ="https://lanyard.cnrad.dev/api/1270763934915366912", alt = "Discord"></a>
-</p>
+discord : trklzz
+instagram : toobleeee
