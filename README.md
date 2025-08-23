@@ -9,15 +9,6 @@
     <a href="https://github.com/tooblewtf"><img src = "https://github-readme-stats.vercel.app/api?username=tooblewtf&count_private=true&show_icons=true&theme=dark&line_height=28.8", alt = "Github stats"></a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/tooblewtf"><img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=tooblewtf&theme=dark&layout=normal&size_weight=0.5&count_weight=0.5&langs_count=9&card_width=500", alt = "Top Languages" /></a>
-</p>
-
-    
-<p align = "center">
-  <a href="https://github.com/tooblewtf"><img src = "https://github-profile-trophy.vercel.app/?username=tooblewtf&column=4&theme=onestar", alt = "Github Trophy"></a>
-    </p>
-
 
 
 
