@@ -6,7 +6,7 @@
 
 <h2 align="center">Github stats</h2>
 <p align="center">
-    <a href="https://github.com/tooblewtf"><img src = "https://github-readme-stats.vercel.app/api?username=tooblewtf&count_private=true&show_icons=true&theme=dark&line_height=28.8", alt = "Github stats"></a>
+    <a href="https://github.com/tooblewtf"><img src ="https://github-readme-stats.vercel.app/api?username=tooblewtf&count_private=true&show_icons=true&theme=dark&line_height=28.8", alt = "Github stats"></a>
 </p>
 
 
