@@ -1,104 +1,92 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=2200&pause=900&color=8B5CF6&center=true&vCenter=true&width=800&lines=Hey+there%2C+I'm+tooblewtf.;Student+%7C+Web+Developer+%7C+Discord+Bot+Builder.;Minimal+design.+Dark+energy.+Clean+code." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=2200&pause=900&color=2563EB&center=true&vCenter=true&width=900&lines=Merhaba%2C+ben+tooblewtf.;Web+geli%C5%9Ftirme+ve+Discord+bot+projeleri+%C3%BCzerinde+%C3%A7al%C4%B1%C5%9F%C4%B1yorum.;Disiplinli%2C+sade+ve+sonu%C3%A7+odakl%C4%B1+yaz%C4%B1l%C4%B1m+yakla%C5%9F%C4%B1m%C4%B1." alt="Typing SVG" />
 </p>
 
 <h1 align="center">tooblewtf</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/status-online-0d1117?style=for-the-badge&logo=github&logoColor=8B5CF6" />
-  <img src="https://img.shields.io/badge/focus-web%20%26%20backend-0d1117?style=for-the-badge&logo=vercel&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/vibe-dark%20%2F%20minimal%20%2F%20cyber-0d1117?style=for-the-badge&logo=ghost&logoColor=8B5CF6" />
+  <strong>Disiplinli yaklaşım. Temiz kod. Net sonuç.</strong>
 </p>
 
 <p align="center">
-  <i>Code sharp. Style darker. Presence cleaner.</i>
+  <img src="https://img.shields.io/badge/Stat%C3%BC-%C3%96%C4%9Frenci-0f172a?style=for-the-badge&logo=googleclassroom&logoColor=white" />
+  <img src="https://img.shields.io/badge/Odak-Web%20Geli%C5%9Ftirme-0f172a?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/Uzmanl%C4%B1k-Discord%20Bot%20Projeleri-0f172a?style=for-the-badge&logo=discord&logoColor=5865F2" />
+  <img src="https://img.shields.io/badge/Yakla%C5%9F%C4%B1m-Planl%C4%B1%20ve%20Kararl%C4%B1-0f172a?style=for-the-badge&logo=target&logoColor=white" />
 </p>
 
 ---
 
-## `> boot.log`
+## Hakkımda
 
-```bash
-user: tooblewtf
-role: student / developer
-specialty: web development, backend, discord bots
-mindset: build clean, keep it minimal
-aura: hacker shell with anime silence
-```
+Yazılım geliştirme alanında kendini sürekli geliştirmeyi hedefleyen bir öğrenciyim.  
+Web teknolojileri, backend çözümleri ve Discord bot sistemleri üzerinde çalışıyorum.  
+Projelerimde önceliğim; düzenli yapı, sürdürülebilir kod kalitesi ve işlevsel sonuç üretmektir.
 
 ---
 
-## `> about_me`
+## Yetkinlik Alanları
 
 <p align="center">
-  <img src="https://img.shields.io/badge/currently-random%20projects-111111?style=for-the-badge&logo=githubactions&logoColor=8B5CF6" />
-  <img src="https://img.shields.io/badge/learning-every%20day-111111?style=for-the-badge&logo=bookstack&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/pronouns-he%20%2F%20him-111111?style=for-the-badge&logo=googlemessages&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/fun%20fact-light%20mode%20hater-111111?style=for-the-badge&logo=darkreader&logoColor=8B5CF6" />
+  <img src="https://img.shields.io/badge/HTML5-0f172a?style=for-the-badge&logo=html5&logoColor=E34F26" />
+  <img src="https://img.shields.io/badge/CSS3-0f172a?style=for-the-badge&logo=css3&logoColor=1572B6" />
+  <img src="https://img.shields.io/badge/JavaScript-0f172a?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/PHP-0f172a?style=for-the-badge&logo=php&logoColor=777BB4" />
+  <img src="https://img.shields.io/badge/Node.js-0f172a?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E" />
+  <img src="https://img.shields.io/badge/Discord.js-0f172a?style=for-the-badge&logo=discord&logoColor=5865F2" />
 </p>
 
 <p align="center">
-  Regular student.  
-  I like building random but useful things, designing clean interfaces,
-  and creating projects that feel simple, sharp, and alive.
-</p>
-
----
-
-## `> tech_stack`
-
-<p align="center">
-  <img src="https://img.shields.io/badge/html5-0d1117?style=for-the-badge&logo=html5&logoColor=E34F26" />
-  <img src="https://img.shields.io/badge/css3-0d1117?style=for-the-badge&logo=css3&logoColor=1572B6" />
-  <img src="https://img.shields.io/badge/javascript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/php-0d1117?style=for-the-badge&logo=php&logoColor=777BB4" />
-  <img src="https://img.shields.io/badge/node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E" />
-  <img src="https://img.shields.io/badge/discord.js-0d1117?style=for-the-badge&logo=discord&logoColor=5865F2" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/git-111111?style=for-the-badge&logo=git&logoColor=F05032" />
-  <img src="https://img.shields.io/badge/github-111111?style=for-the-badge&logo=github&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/vscode-111111?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" />
+  <img src="https://img.shields.io/badge/Git-1e293b?style=for-the-badge&logo=git&logoColor=F05032" />
+  <img src="https://img.shields.io/badge/GitHub-1e293b?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VSCode-1e293b?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" />
 </p>
 
 ---
 
-## `> github_analytics`
+## Çalışma İlkesi
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tooblewtf&theme=tokyonight&hide_border=true&show_icons=true&bg_color=00000000&title_color=8B5CF6&icon_color=8B5CF6&text_color=c9d1d9" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tooblewtf&theme=tokyonight&hide_border=true&background=00000000&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6" height="170" />
+  <img src="https://img.shields.io/badge/Prensip-Disiplin-111827?style=for-the-badge&logo=shield&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prensip-Sadelik-111827?style=for-the-badge&logo=minutemailer&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prensip-Verimlilik-111827?style=for-the-badge&logo=lightning&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prensip-S%C3%BCreklilik-111827?style=for-the-badge&logo=repeat&logoColor=white" />
+</p>
+
+Projelerde yaklaşımım; gereksiz karmaşıklıktan uzak, hedefe yönelik ve sağlam bir yapı kurmaktır.  
+Her çalışma; planlama, uygulama ve geliştirme sürecinin doğal bir parçası olarak ele alınır.
+
+---
+
+## GitHub İstatistikleri
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tooblewtf&theme=default&hide_border=true&show_icons=true&bg_color=ffffff&title_color=0f172a&icon_color=2563EB&text_color=334155" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tooblewtf&theme=default&hide_border=true&background=ffffff&ring=2563EB&fire=2563EB&currStreakLabel=0f172a" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tooblewtf&theme=tokyonight&hide_border=true&layout=compact&bg_color=00000000&title_color=8B5CF6&text_color=c9d1d9" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tooblewtf&theme=default&hide_border=true&layout=compact&bg_color=ffffff&title_color=0f172a&text_color=334155" height="160" />
 </p>
 
 ---
 
-## `> contact.links`
+## İletişim
 
 <p align="center">
   <a href="https://github.com/tooblewtf">
-    <img src="https://img.shields.io/badge/github-tooblewtf-0d1117?style=for-the-badge&logo=github&logoColor=ffffff" />
+    <img src="https://img.shields.io/badge/GitHub-tooblewtf-0f172a?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://discord.com/users/1270763934915366912">
-    <img src="https://img.shields.io/badge/discord-trklzz-0d1117?style=for-the-badge&logo=discord&logoColor=5865F2" />
+    <img src="https://img.shields.io/badge/Discord-trklzz-0f172a?style=for-the-badge&logo=discord&logoColor=5865F2" />
   </a>
   <a href="https://instagram.com/toobleeee">
-    <img src="https://img.shields.io/badge/instagram-@toobleeee-0d1117?style=for-the-badge&logo=instagram&logoColor=E4405F" />
+    <img src="https://img.shields.io/badge/Instagram-@toobleeee-0f172a?style=for-the-badge&logo=instagram&logoColor=E4405F" />
   </a>
 </p>
 
 ---
 
-## `> terminal_quote`
-
 <p align="center">
-  <img src="https://img.shields.io/badge/%3E%20echo%20%22stay%20low%2C%20code%20loud.%22-111111?style=for-the-badge&logo=gnubash&logoColor=8B5CF6" />
-</p>
-
-<p align="center">
-  <sub>Built in the dark, refined in silence.</sub>
+  <sub>Planlı çalışma, açık hedef ve sürdürülebilir gelişim.</sub>
 </p>
