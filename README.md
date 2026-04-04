@@ -5,7 +5,7 @@
 <h1 align="center">tooblewtf</h1>
 
 <p align="center">
-  <strong>Disiplinli yaklaşım. Temiz kod. Net sonuç.</strong>
+  <strong>Elin oglu okur atomu böler, bizimkiler okur milleti böler.</strong>
 </p>
 
 <p align="center">
