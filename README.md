@@ -1,4 +1,4 @@
-````md id="4d1onf"
+md id="4d1onf"
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=2200&pause=900&color=8B5CF6&center=true&vCenter=true&width=800&lines=Hey+there%2C+I'm+tooblewtf.;Student+%7C+Web+Developer+%7C+Discord+Bot+Builder.;Minimal+design.+Dark+energy.+Clean+code." alt="Typing SVG" />
 </p>
@@ -159,5 +159,3 @@ Daha da vurucu olsun diye sana bir de **ultra v3** bırakıyorum. Bu biraz daha 
 <p align="center">
   <i>Less noise. More meaning.</i>
 </p>
-İstersen bir sonraki mesajda sana **en iyi final version** yapayım:
-**tek parça, aşırı temiz, copy-paste hazır, son hali**.
