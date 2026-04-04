@@ -61,12 +61,10 @@ Her çalışma; planlama, uygulama ve geliştirme sürecinin doğal bir parças�
 ## GitHub İstatistikleri
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tooblewtf&theme=default&hide_border=true&show_icons=true&bg_color=ffffff&title_color=0f172a&icon_color=2563EB&text_color=334155" height="170" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tooblewtf&theme=default&hide_border=true&background=ffffff&ring=2563EB&fire=2563EB&currStreakLabel=0f172a" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tooblewtf&theme=default&hide_border=true&layout=compact&bg_color=ffffff&title_color=0f172a&text_color=334155" height="160" />
 </p>
 
 ---
