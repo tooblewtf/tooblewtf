@@ -1,4 +1,3 @@
-md id="4d1onf"
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=2200&pause=900&color=8B5CF6&center=true&vCenter=true&width=800&lines=Hey+there%2C+I'm+tooblewtf.;Student+%7C+Web+Developer+%7C+Discord+Bot+Builder.;Minimal+design.+Dark+energy.+Clean+code." alt="Typing SVG" />
 </p>
@@ -25,7 +24,7 @@ role: student / developer
 specialty: web development, backend, discord bots
 mindset: build clean, keep it minimal
 aura: hacker shell with anime silence
-````
+```
 
 ---
 
@@ -102,60 +101,4 @@ aura: hacker shell with anime silence
 
 <p align="center">
   <sub>Built in the dark, refined in silence.</sub>
-</p>
-```
-
-Daha da vurucu olsun diye sana bir de **ultra v3** bırakıyorum. Bu biraz daha elit ve daha “GitHub profiline girince vay aq” hissi verir:
-
-````md id="5a7l4m"
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=800&color=9333EA&center=true&vCenter=true&width=900&lines=tooblewtf;Web+Developer+%7C+Discord+Bot+Builder;Minimal.+Dark.+Precise." alt="Typing SVG" />
-</p>
-
-<h1 align="center">Welcome to my space.</h1>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/student-0d1117?style=for-the-badge&logo=academia&logoColor=white" />
-  <img src="https://img.shields.io/badge/web%20developer-0d1117?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  <img src="https://img.shields.io/badge/discord%20bot%20builder-0d1117?style=for-the-badge&logo=discord&logoColor=5865F2" />
-</p>
-
----
-
-```bash
-> initializing profile...
-> loading aesthetics... dark
-> loading mindset... minimal
-> loading presence... professional
-> user detected: tooblewtf
-````
-
-## Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/html5-111111?style=for-the-badge&logo=html5&logoColor=E34F26"/>
-  <img src="https://img.shields.io/badge/css3-111111?style=for-the-badge&logo=css3&logoColor=1572B6"/>
-  <img src="https://img.shields.io/badge/javascript-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-  <img src="https://img.shields.io/badge/php-111111?style=for-the-badge&logo=php&logoColor=777BB4"/>
-  <img src="https://img.shields.io/badge/node.js-111111?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E"/>
-  <img src="https://img.shields.io/badge/discord.js-111111?style=for-the-badge&logo=discord&logoColor=5865F2"/>
-</p>
-
-## Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tooblewtf&theme=tokyonight&hide_border=true&show_icons=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tooblewtf&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
-## Contact
-
-<p align="center">
-  <a href="https://github.com/tooblewtf"><img src="https://img.shields.io/badge/GitHub-tooblewtf-111111?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://discord.com/users/1270763934915366912"><img src="https://img.shields.io/badge/Discord-trklzz-111111?style=for-the-badge&logo=discord&logoColor=5865F2"></a>
-  <a href="https://instagram.com/toobleeee"><img src="https://img.shields.io/badge/Instagram-@toobleeee-111111?style=for-the-badge&logo=instagram&logoColor=E4405F"></a>
-</p>
-
-<p align="center">
-  <i>Less noise. More meaning.</i>
 </p>
