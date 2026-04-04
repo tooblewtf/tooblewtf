@@ -6,7 +6,9 @@
 
 <h2 align="center">Github stats</h2>
 <p align="center">
-    <a href="https://github.com/tooblewtf"><img src="https://github-readme-stats.vercel.app/api?username=tooblewtf&count_private=true&show_icons=true&theme=dark&line_height=28.8",alt="Github stats"></a>
+![](https://github-readme-stats.vercel.app/api?username=Shinques&theme=radical&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Shinques&theme=radical&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shinques&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 </p>
 
 
@@ -18,7 +20,7 @@
   🔭 I'm currently working on random things, Im just a regular student.
 </h4>
 <h4 align="center">
-  ❤️ Main languages: CSS, HTML, Javascript, PHP, NodeJS
+  ❤️ Main languages: CSS, HTML, Javascript, PHP, NodeJS, DiscordJS.
 </h4>
 <h4 align="center">
   📫 How to reach me: <a href = "https://discord.com/users/1270763934915366912">Discord</a>
